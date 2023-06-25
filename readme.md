@@ -1,6 +1,6 @@
 # NewsApp Django Project
 
-![NewsApp Logo](images/logo.png)
+
 
 This repository contains a Django project called NewsApp, which is a web application that collects news articles by web scraping from a popular news site and integrates them into a Django website. This README.md file provides an overview of the project, including the technologies used, project description, and images of the website.
 
